@@ -134,7 +134,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: aea716365ab9d8773614af14fc9a25faef652e4f
+      resolved-ref: b13259e973e2c0037b04003a8011b0b499036bfb
       url: "https://github.com/kumsumit/firebase_core.git"
     source: git
     version: "4.10.0"
